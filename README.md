@@ -5,8 +5,4 @@ All Task given by The Spark Foundation for Data Science &amp; Business Analytics
 |:-----:|:----:|:---:|:---:|
 |1|Predicting score based on hours of study using Linear Regression Model|Done|[here](Task1)|
 
-
-
-
-
-[Task1]:https://www.instagram.com/
+[Task1]: https://twitter.com/Ashwin__Solanki

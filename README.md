@@ -1,4 +1,4 @@
-# GRIP-TSF
+# GRIP-TSF ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/AshwinSolanki76/GRIP-TSF)
 All Task given by The Spark Foundation for Data Science &amp; Business Analytics
 
 |Task|Discription|Status|Link|
